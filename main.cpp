@@ -1,4 +1,4 @@
-// TicTacToe solution
+// TicTacToe solution - final version
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -64,5 +64,7 @@ int main() {
     } else {
         cout << "ongoing\n";
     }
+
+// End of solution
     return 0;
 }
